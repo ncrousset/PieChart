@@ -1,15 +1,15 @@
 {
-    "name": "samchristy/piechart",
+    "name": "ncrousset/piechart",
     "type": "library",
     "description": "A simple class for drawing pie charts with ImageMagick or GD in PHP.",
     "keywords": ["graphics", "pie", "chart"],
-    "homepage": "https://github.com/SamChristy/PieChart",
+    "homepage": "https://github.com/ncrousset/PieChart",
     "license": "GPL-2.0+",
     "authors": [
         {
             "name": "Sam Christy",
             "email": "sam_christy@hotmail.co.uk",
-			"homepage": "https://github.com/SamChristy"
+		"homepage": "https://github.com/SamChristy"
         }
     ],
     "require": {
